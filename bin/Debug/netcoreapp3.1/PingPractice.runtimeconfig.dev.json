@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vipertoo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vipertoo\\.nuget\\packages"
+    ]
+  }
+}

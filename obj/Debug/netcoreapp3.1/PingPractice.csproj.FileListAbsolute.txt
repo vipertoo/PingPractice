@@ -1,0 +1,11 @@
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\bin\Debug\netcoreapp3.1\PingPractice.exe
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\bin\Debug\netcoreapp3.1\PingPractice.deps.json
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\bin\Debug\netcoreapp3.1\PingPractice.runtimeconfig.json
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\bin\Debug\netcoreapp3.1\PingPractice.runtimeconfig.dev.json
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\bin\Debug\netcoreapp3.1\PingPractice.dll
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\bin\Debug\netcoreapp3.1\PingPractice.pdb
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\obj\Debug\netcoreapp3.1\PingPractice.AssemblyInfoInputs.cache
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\obj\Debug\netcoreapp3.1\PingPractice.AssemblyInfo.cs
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\obj\Debug\netcoreapp3.1\PingPractice.dll
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\obj\Debug\netcoreapp3.1\PingPractice.pdb
+C:\Users\Vipertoo\source\repos\PingPractice\PingPractice\obj\Debug\netcoreapp3.1\PingPractice.csprojAssemblyReference.cache
